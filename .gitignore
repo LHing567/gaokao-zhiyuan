@@ -62,7 +62,6 @@ db.sqlite3
 db.sqlite3-journal
 
 # Project cache & output
-score.db
 progress.db
 output/
 *.xlsx
