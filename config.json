@@ -1,0 +1,22 @@
+{
+    "province_id": "贵州",
+    "rank": 12000,
+    "want": "生物科学",
+    "year": 2024,
+    "output": true,
+    "ethnic_minority": false,
+    "subject": [
+        "物理",
+        "化学",
+        "生物"
+    ],
+    "thread_num": 2,
+    "schools": [
+        "清华大学",
+        "北京大学",
+        "浙江大学",
+        "上海交通大学",
+        "复旦大学",
+        "南京大学"
+    ]
+}
